@@ -1,4 +1,4 @@
-# file_handling_assignment.py
+
 
 # File creation and writing
 try:
